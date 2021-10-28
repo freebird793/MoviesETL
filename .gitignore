@@ -5,7 +5,7 @@ __pycache__/
 ratings.csv
 # C extensions
 *.so
-
+config.py
 # Distribution / packaging
 .Python
 build/
